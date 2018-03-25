@@ -1,5 +1,7 @@
 # BigInteger
+==
 问题描述
+--
 创建一个大整数类HugeInteger，该类用一个40个元素的数组来存放一个大整数（最多不超过40位）。
 构造函数原型：
 HugeInteger(String);
